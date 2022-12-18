@@ -1,0 +1,40 @@
+project:
+  type: book
+
+title-block-banner: "#003152"
+# title-block-banner-color: "#f5f5f5"
+
+
+book:
+  page-footer:
+    left: |
+      Quotes and Thoughts by J. Alejandro Gelves.
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
+  cover-image: cover.png
+  title: "Quotes and Thoughts"
+  author: "J. Alejandro Gelves"
+  date: "12/16/2022"
+  downloads: [pdf]
+  sidebar:
+    style: "floating"
+    search: true
+  chapters:
+    - index.qmd
+    - Anger.qmd
+    - Wild Problems.qmd
+    - Kybalion.qmd
+    - Discourses.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
+
