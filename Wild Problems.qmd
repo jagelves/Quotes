@@ -2,7 +2,8 @@
 
 Russell Roberts is an economist and writer who is currently a research fellow at the Hoover Institution, a conservative think tank at Stanford University. He is also a professor of economics at George Mason University and a well-known commentator on economic issues. Roberts is known for his popular economics podcast "EconTalk," in which he interviews leading economists and discusses a wide range of economic topics. *Source: chatgpt.*
 
-## On Narratives
+## On Thoughts and Decisions
+
 ::: {style="color: gray"}
 1. "*Normal human beings have trouble making decisions, and when we do, we often will come up with reasons that are merely an after-the-fact narrative---something we tell ourselves and others to justify what we've done or plan to do.*"
 :::
@@ -25,24 +26,24 @@ Russell Roberts is an economist and writer who is currently a research fellow at
 3. "*We can imagine cases where the utilitarian costs and benefits are so large that there comes a point where sense of self is trumped. If Teodora had a child who needed an operation that she couldn't afford, I could imagine her keeping the diamond even though she would feel guilty. We would not judge her harshly. If anything, that's the exception that proves the rule---Teodora's identity as a mother would be another principle at her core competing with honesty. She would put either of those principles ahead of narrow utilitarianism.*"
 :::
 
-## On Challenging Yourself
+## On Growing
 
 ::: {style="color: gray"}
-"*My wife went shopping at REI for gear that she needed for a five-day hiking trip she planned with her sister. The salesperson wanted to know if it was going to be a Type 1 or Type 2 experience. The difference? A Type 1 experience is nice the whole time---nothing too stressful, mostly positive. You enjoy it while you're in the middle of it and you enjoy it after. A day at the beach. A walk in the park. A Type 2 experience is hard. There are moments of pain that have to be endured---difficult days with a lot of altitude gained over a fairly short distance, streams to be crossed without your shoes where the water runs so cold your feet go numb while you're crossing, heavy gear to be carried on the trek that hurts your back or feet.*"
+1. "*A Type 1 experience is nice the whole time---nothing too stressful, mostly positive. You enjoy it while you're in the middle of it and you enjoy it after. A day at the beach. A walk in the park. A Type 2 experience is hard. There are moments of pain that have to be endured---difficult days with a lot of altitude gained over a fairly short distance, streams to be crossed without your shoes where the water runs so cold your feet go numb while you're crossing, heavy gear to be carried on the trek that hurts your back or feet.*"
 :::
 
 ::: {style="color: gray"}
-"*Man wants freedom to become the man he wants to become." We are in the process of becoming.*"
+2. "*We are in the process of becoming.*"
 :::
 
-
+## On Ignorance
 
 ::: {style="color: gray"}
-"*Start by facing your ignorance. Wild problems are not the kinds of problems with answers. And that's OK. It's better than OK. It's glorious, something like going to Rome for the first and only time. Sure, some of us would love for someone to give us an itinerary to go with our trip to Rome---a tour bus where all the stops are preplanned because they're the popular ones. But most of us would prefer to discover for ourselves what we love about Rome and what we might come to love. Wouldn't you rather be surprised than have it all mapped out for you? And it doesn't matter, because you can't map it out anyway.*"
+1. "*Start by facing your ignorance. Wild problems are not the kinds of problems with answers. And that's OK. It's better than OK. It's glorious, something like going to Rome for the first and only time. Sure, some of us would love for someone to give us an itinerary to go with our trip to Rome---a tour bus where all the stops are preplanned because they're the popular ones. But most of us would prefer to discover for ourselves what we love about Rome and what we might come to love. Wouldn't you rather be surprised than have it all mapped out for you? And it doesn't matter, because you can't map it out anyway.*"
 :::
 
 ::: {style="color: gray"}
-"*This is the idea of Chesterton's Fence, named for an insight of G. K. Chesterton's. When you come across something that doesn't make sense to you---a fence in the middle of nowhere with no apparent purpose---you might be tempted to tear it down. Before you do, you should try to find out why it's there---it may have a cause or purpose that isn't obvious.*"
+2. "*This is the idea of Chesterton's Fence, named for an insight of G. K. Chesterton's. When you come across something that doesn't make sense to you---a fence in the middle of nowhere with no apparent purpose---you might be tempted to tear it down. Before you do, you should try to find out why it's there---it may have a cause or purpose that isn't obvious.*"
 :::
 
 
