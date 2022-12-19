@@ -5,7 +5,11 @@ Epictetus was a Greek philosopher who lived in the first and second centuries AD
 ## On Complaining
 
 ::: {style="color: gray"}
-1. "*But unpleasant and distressing things come about in this life. And don't such things come about at Olympia? Aren't you scorched by the heat? Aren't you crowded and jostled? Don't you find it difficult to wash? Don't you get soaked when it rains? Aren't you exposed to no end of uproar and shouting and other irritations? But by balancing all of these things off against the remarkable nature of spectacle, I imagine that you're able to accept and endure them. Come now, haven't you been endowed with faculties that enable you to bear whatever may come about? Haven't you been endowed with greatness of soul? And with courage? And with endurance? If only I have greatness of soul, what reason is left for me to be worried about anything that may come to pass? What can disconcert or trouble me, or seem in any way distressing? Shall I fail to apply my capacities to the end for which I have received them, but instead groan and lament about things that come about?*"
+1. "*Yes, but my nose is running. Then what do you have hands for, you slave? Isn't it to be able to wipe your nose? How much better it would be for you to wipe your nose than to find fault*"
+:::
+
+::: {style="color: gray"}
+2. "*But unpleasant and distressing things come about in this life. And don't such things come about at Olympia? Aren't you scorched by the heat? Aren't you crowded and jostled? Don't you find it difficult to wash? Don't you get soaked when it rains? Aren't you exposed to no end of uproar and shouting and other irritations? But by balancing all of these things off against the remarkable nature of spectacle, I imagine that you're able to accept and endure them. Come now, haven't you been endowed with faculties that enable you to bear whatever may come about? Haven't you been endowed with greatness of soul? And with courage? And with endurance? If only I have greatness of soul, what reason is left for me to be worried about anything that may come to pass? What can disconcert or trouble me, or seem in any way distressing? Shall I fail to apply my capacities to the end for which I have received them, but instead groan and lament about things that come about?*"
 :::
 
 ## On Judgements
@@ -17,4 +21,15 @@ Epictetus was a Greek philosopher who lived in the first and second centuries AD
 ::: {style="color: gray"}
 2. "*So accordingly from this day onward we'll investigate and examine the nature and condition of nothing else at all be it land or slaves or horses or dogs but only of our judgments. You can see then that it's necessary for you to become a student, that creature who is the butt of everyone's laughter, if you really want to subject your opinions to proper examination. And that as you are fully aware, is not the work of a single hour or day.*"
 :::
+
+::: {style="color: gray"}
+3. "*Don't you know how small a part you are by comparison to the whole with regard to your body I mean but when it comes to your reason you're not inferior to the gods nor do you fall short of them because the greatness of reason is measured not by height or length but by the quality of its judgments.*"
+:::
+
+## Use Your Mind
+
+::: {style="color: gray"}
+1. "*Now if you were ignorant of the purpose for which you possess the power of sight you'd be unfortunate and in a bad way if you close your eyes when colors were presenting themselves; so when you have nobility and greatness of mind to enable you to deal with every circumstance, and yet are ignorant of that, aren't you even more unfortunate and even worse off? Things that the faculty in your possession is well fitted to deal with present themselves to you, and yet you renounce the use of it at the very moment when you should be keeping it open for use and fully attentive. Shouldn't you be giving thanks, rather, to the gods for having enable you to rise above everything that they have placed within your power, and having rendered you accountable only for what is subject to your control? With regard to your parents, they have discharged you from all accountability; and likewise with regard to your brothers and sisters, and to your body, and to your property, and life and death. Well then, what have they made you accountable for? Only for what lies within your power, the right use of your impressions. Why do you charge yourself, then, with things for which you're not accountable? You're merely creating trouble for yourself.*"
+:::
+
 
