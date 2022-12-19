@@ -1,6 +1,4 @@
 # References {.unnumbered}
 
 ::: {#refs}
-Thích Nhât Hanh. Anger.
-
 :::
