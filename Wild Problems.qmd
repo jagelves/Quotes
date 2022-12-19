@@ -1,5 +1,7 @@
 # Wild Problems by Russ Roberts
 
+Russell Roberts is an economist and writer who is currently a research fellow at the Hoover Institution, a conservative think tank at Stanford University. He is also a professor of economics at George Mason University and a well-known commentator on economic issues. Roberts is known for his popular economics podcast "EconTalk," in which he interviews leading economists and discusses a wide range of economic topics. *from chatgpt*
+
 ::: {style="color: gray"}
 "*Normal human beings have trouble making decisions, and when we do, we often will come up with reasons that are merely an after-the-fact narrative---something we tell ourselves and others to justify what we've done or plan to do.*"
 :::
