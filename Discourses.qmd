@@ -34,14 +34,23 @@ Epictetus was a Greek philosopher who lived in the first and second centuries AD
 
 ## On Understanding
 
+::: {style="color: gray"}
 1. "*This man who has fallen into error and is mistaken about the most important matters, and thus has gone blind, not with regard to the eyesight that distinguishes white from black, but with regard to judgment that distinguishes good from bad. Should someone like this be put to death? If you put the question in that way you'll recognize the inhumanity of the thought that you're expressing and see that it is equivalent to saying, should this blind man then or that deaf one be put to death? For the greatest harm that a person can suffer is the loss of the most valuable goods, and the most valuable thing that anyone can possess is correct choice. Then if someone is deprived of that, what reason is left for you to be angry with him?*"
+:::
 
+::: {style="color: gray"}
 2. "*Whoever keeps this fact clearly in mind, then, that for human beings the present impression is the measure of every action. An impression that may besides be well or badly formed. If well, that person is beyond reproach. If badly, he himself pays the penalty, since it is impossible that one person should go astray and another one pay the penalty for it. Whoever keeps this in mind then will never be angry with anyone and will never abuse, never criticize, never hate, and never offend anyone.*"
+:::
 
 ## A Good Bargain
 
+::: {style="color: gray"}
 1. "*That is why I lost my lamp, because the thief was better than me keeping awake. But he has paid a high price for the lamp, since he returned for a lamp he has become a thief, in return for a lamp, a man of bad faith, in return for a lamp, a wild beast. That struck him as a good bargain!*"
+:::
 
 ## On Learning
 
+::: {style="color: gray"}
 1. "*For the same reason it is also ridiculous to say 'give me some advice.' What advice should I give you? No this is what you should say: 'Ensure that my mind will be able to adapt itself to whatever comes about.' For the former request amounts to the same as an illiterate person asking, 'tell me what to write when some name is set for me to write.' Suppose I tell him to write 'Dion', and teacher comes along and sets him not to that name, but 'Theon', what will come of it? What is he to write? But if you studied how to write, you'll be ready for everything that may be dictated to you; and if not, what advice should I give you now? If the circumstances should dictate something different, what will you say, what will you do? Keep this general principle in mind, then, and you will never be in need of advice. But if you're constantly hankering after external things, you're sure to be tested this way and that in accordance with your master's will. And who is your master? Whoever has authority over anything that you're anxious to gain or avoid.*"
+:::
+
