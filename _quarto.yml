@@ -13,6 +13,7 @@ book:
     right: |
       This book was built with <a href="https://quarto.org/">Quarto</a>.
   cover-image: cover.png
+  sharing: [twitter, facebook, linkedin]
   title: "Quotes and Thoughts"
   author: "J. Alejandro Gelves"
   date: "12/16/2022"
