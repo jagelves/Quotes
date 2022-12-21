@@ -1,6 +1,7 @@
 # Anger by Thích Nhât Hanh {#sec-AngerBook}
 
-Thích Nhât Hanh is a Vietnamese Zen Buddhist monk, teacher, author, and peace activist. He is known for his contributions to the development of Engaged Buddhism and his emphasis on mindfulness and compassion in daily life. Thích Nhât Hanh was born in Vietnam in 1926 and ordained as a monk at the age of 16. He has played a leading role in the Buddhist revival movement in Vietnam and has worked to bring an end to the Vietnam War. Thích Nhât Hanh is the founder of the Plum Village Community of Engaged Buddhism, a network of monasteries, practice centers, and communities in Europe and the United States. *Source: chatgpt.*
+Thích Nhât Hanh is a Vietnamese Zen Buddhist monk, teacher, author, and peace activist. He is known for his contributions to the development of Engaged Buddhism and his emphasis on mindfulness and compassion in daily life. Thích Nhât Hanh was born in Vietnam in 1926 and ordained as a monk at the age of 16. He has played a leading role in the Buddhist revival movement in Vietnam and has worked to bring an end to the Vietnam War. Thích Nhât Hanh is the founder of the Plum Village Community of Engaged Buddhism, a network of monasteries, practice centers, and communities in Europe and the United States. *Source: chatgpt.*  
+The following quotes are from @hanh2001anger.
 
 ## Listening
 
@@ -83,7 +84,7 @@ Thích Nhât Hanh is a Vietnamese Zen Buddhist monk, teacher, author, and peace 
 :::
 
 ::: {style="color: gray"}
-4. "*If you can remind yourself that the positive elements are still present within you and the other person, you will know that it is possible to break through, so that the best things in both of you can come up and manifest again.*"
+4.  "*If you can remind yourself that the positive elements are still present within you and the other person, you will know that it is possible to break through, so that the best things in both of you can come up and manifest again.*"
 :::
 
 ## Perception

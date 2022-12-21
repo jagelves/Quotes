@@ -17,7 +17,7 @@ book:
   title: "Quotes and Thoughts"
   author: "J. Alejandro Gelves"
   date: "12/16/2022"
-  downloads: [pdf]
+  # downloads: [pdf]
   sidebar:
     style: "floating"
     search: true
@@ -30,7 +30,7 @@ book:
     - Discourses.qmd
     - references.qmd
 
-# bibliography: references.bib
+bibliography: references.bib
 
 format:
   html:
