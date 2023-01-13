@@ -31,6 +31,7 @@ book:
     - Discourses.qmd
     - Courage.qmd
     - Search Meaning.qmd
+    - Siddhartha.qmd
     - references.qmd
 
 bibliography: references.bib

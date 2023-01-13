@@ -1,34 +1,34 @@
 # Free Will by Sam Harris
 
-Sam Harris is an American neuroscientist, philosopher, and author. He is known for his work in the fields of philosophy, neuroscience, and meditation, and for his critiques of religion and his advocacy of scientific skepticism, rationalism, and humanism. Harris is the author of several books, including "The End of Faith," "Letter to a Christian Nation," and "Waking Up: A Guide to Spirituality Without Religion," in which he discusses the role of spirituality in modern society and the potential for a non-religious approach to spirituality. Harris has also been a vocal critic of certain forms of religion and has written and spoken extensively on the dangers of religious fundamentalism and the importance of scientific skepticism. *Source: chatgpt.*  
+Sam Harris is an American neuroscientist, philosopher, and author. He is known for his work in the fields of philosophy, neuroscience, and meditation, and for his critiques of religion and his advocacy of scientific skepticism, rationalism, and humanism. Harris is the author of several books, including "The End of Faith," "Letter to a Christian Nation," and "Waking Up: A Guide to Spirituality Without Religion," in which he discusses the role of spirituality in modern society and the potential for a non-religious approach to spirituality. Harris has also been a vocal critic of certain forms of religion and has written and spoken extensively on the dangers of religious fundamentalism and the importance of scientific skepticism. *Source: chatgpt.*\
 The following quotes are from @harris2012free.
 
 ## Facts on Decisions
 
 ::: {style="color: gray"}
-1. “*The intention to do one thing and not another does not originate in consciousness—rather, it appears in consciousness, as does any thought or impulse that might oppose it.*”
+1.  "*The intention to do one thing and not another does not originate in consciousness---rather, it appears in consciousness, as does any thought or impulse that might oppose it.*"
 :::
 
 ::: {style="color: gray"}
-2. “*Some moments before you are aware of what you will do next—a time in which you subjectively appear to have complete freedom to behave however you please—your brain has already determined what you will do. You then become conscious of this “decision” and believe that you are in the process of making it.*”
+2.  "*Some moments before you are aware of what you will do next---a time in which you subjectively appear to have complete freedom to behave however you please---your brain has already determined what you will do. You then become conscious of this "decision" and believe that you are in the process of making it.*"
 :::
 
 ## The Impossibility of Free Will
+
 ::: {style="color: gray"}
-1. “*Consider what it would take to actually have free will. You would need to be aware of all the factors that determine your thoughts and actions, and you would need to have complete control over those factors. But there is a paradox here that vitiates the very notion of freedom—for what would influence the influences? More influences? None of these adventitious mental states are the real you. You are not controlling the storm, and you are not lost in it. You are the storm.*”
+1.  "*Consider what it would take to actually have free will. You would need to be aware of all the factors that determine your thoughts and actions, and you would need to have complete control over those factors. But there is a paradox here that vitiates the very notion of freedom---for what would influence the influences? More influences? None of these adventitious mental states are the real you. You are not controlling the storm, and you are not lost in it. You are the storm.*"
 :::
 
 ::: {style="color: gray"}
-2. “*Most people are ruled by many mutually incompatible goals and aspirations: You want to finish your work, but you are also inclined to stop working so that you can play with your kids. You aspire to quit smoking, but you also crave another cigarette. You are struggling to save money, but you are also tempted to buy a new computer. Where is the freedom when one of these opposing desires inexplicably triumphs over its rival?*”
+2.  "*Most people are ruled by many mutually incompatible goals and aspirations: You want to finish your work, but you are also inclined to stop working so that you can play with your kids. You aspire to quit smoking, but you also crave another cigarette. You are struggling to save money, but you are also tempted to buy a new computer. Where is the freedom when one of these opposing desires inexplicably triumphs over its rival?*"
 :::
 
-3. ::: {style="color: gray"}
-“*My mental life is simply given to me by the cosmos. Why didn’t I decide to drink a glass of juice? The thought never occurred to me. Am I free to do that which does not occur to me to do? Of course not.*”
-:::
+3.  ::: {style="color: gray"}
+    "*My mental life is simply given to me by the cosmos. Why didn't I decide to drink a glass of juice? The thought never occurred to me. Am I free to do that which does not occur to me to do? Of course not.*"
+    :::
 
 ## On Blame
+
 ::: {style="color: gray"}
-1. “*What does it mean to say that rapists and murderers commit their crimes of their own free will? If this statement means anything, it must be that they could have behaved differently—not on the basis of random influences over which they have no control, but because they, as conscious agents, were free to think and act in other ways. To say that they were free not to rape and murder is to say that they could have resisted the impulse to do so (or could have avoided feeling such an impulse altogether)—with the universe, including their brains, in precisely the same state it was in at the moment they committed their crimes. Assuming that violent criminals have such freedom, we reflexively blame them for their actions. But without it, the place for our blame suddenly vanishes, and even the most terrifying sociopaths begin to seem like victims themselves.*”
+1.  "*What does it mean to say that rapists and murderers commit their crimes of their own free will? If this statement means anything, it must be that they could have behaved differently---not on the basis of random influences over which they have no control, but because they, as conscious agents, were free to think and act in other ways. To say that they were free not to rape and murder is to say that they could have resisted the impulse to do so (or could have avoided feeling such an impulse altogether)---with the universe, including their brains, in precisely the same state it was in at the moment they committed their crimes. Assuming that violent criminals have such freedom, we reflexively blame them for their actions. But without it, the place for our blame suddenly vanishes, and even the most terrifying sociopaths begin to seem like victims themselves.*"
 :::
-
-
