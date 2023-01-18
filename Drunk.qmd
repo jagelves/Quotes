@@ -1,0 +1,91 @@
+# The Drunkard's Walk by Leonard Mlodinow {#sec-DrunkBook}
+
+Leonard Mlodinow is a physicist, author, and screenwriter. He is best known for his popular science books, including "The Drunkard's Walk: How Randomness Rules Our Lives" and "Subliminal: How Your Unconscious Mind Rules Your Behavior." He has also co-authored several books with physicist Stephen Hawking, including "A Briefer History of Time" and "The Grand Design." Mlodinow has also worked as a screenwriter and producer for television shows such as "Star Trek: The Next Generation" and "MacGyver." *Source: chatgpt.*
+The following quotes are from @mlodinow2009drunk.
+
+## Concepts
+
+::: {style="color: gray"}
+1.  "*...regression toward the mean. That is, in any series of random events an extraordinary event is most likely to be followed, due purely to chance, by a more ordinary one.*"
+:::
+
+::: {style="color: gray"}
+2.  "*Mathematicians have a fancy name for the situation in which one problem is another in disguise: they call it an isomorphism.*"
+:::
+
+::: {style="color: gray"}
+3.  "*Every reasonable person, Pascal concluded, should therefore follow the laws of God. Today this argument is known as Pascal’s wager.*"
+:::
+
+::: {style="color: gray"}
+4.  "*Benford’s law, numbers arising in this cumulative fashion are not random but rather are biased in favor of the lower digits.*"
+:::
+
+::: {style="color: gray"}
+5.  "*Whereas in the frequency interpretation you judge a sample by the way it turned out, in the subjective interpretation you judge a sample by the way it is produced.*"
+:::
+
+::: {style="color: gray"}
+6.  "*The misconception—or the mistaken intuition—that a small sample accurately reflects underlying probabilities is so widespread that Kahneman and Tversky gave it a name: the law of small numbers.*"
+:::
+
+::: {style="color: gray"}
+7.  "*The idea that the odds of an event with a fixed probability increase or decrease depending on recent occurrences of the event is called the gambler’s fallacy.*"
+:::
+
+::: {style="color: gray"}
+8.  "*He dubbed the phenomenon—that in linked measurements, if one measured quantity is far from its mean, the other will be closer to its mean—regression toward the mean.*"
+:::
+
+::: {style="color: gray"}
+9.  "*What you get then is called the sharpshooter effect, after the apocryphal fellow who excels in his aim because he shoots at blank paper and draws the target afterward.*"
+:::
+
+::: {style="color: gray"}
+10.  "*The phenomenon was dubbed the butterfly effect, based on the implication that atmospheric changes so small they could have been caused by a butterfly flapping its wings can have a large effect on subsequent global weather patterns.*"
+:::
+
+
+## On Perception
+
+::: {style="color: gray"}
+1.  "*If the details we are given fit our mental picture of something, then the more details in a scenario, the more real it seems and hence the more probable we consider it to be*"
+:::
+
+::: {style="color: gray"}
+2.  "*One should not appraise human action on the basis of its results.*"
+:::
+
+::: {style="color: gray"}
+3.  "*When we observe a success or a failure, we are observing one data point, a sample from under the bell curve that represents the potentialities that previously existed. We cannot know whether our single observation represents the mean or an outlier, an event to bet on or a rare happening that is not likely to be reproduced.*"
+:::
+
+::: {style="color: gray"}
+4.  "*Human perception, Faraday recognized, is not a direct consequence of reality but rather an act of imagination.*"
+:::
+
+::: {style="color: gray"}
+5.  "*Perception requires imagination because the data people encounter in their lives are never complete and always equivocal.*"
+:::
+
+::: {style="color: gray"}
+6.  "*Either way it is important in our own lives to take the long view and understand that streaks and other patterns that don’t appear random can indeed happen by pure chance. It is also important, when assessing others, to recognize that among a large group of people it would be very odd if one of them didn’t experience a long streak of successes or failures.*"
+:::
+
+::: {style="color: gray"}
+7.  "*There is therefore a fundamental clash between our need to feel we are in control and our ability to recognize randomness. That clash is one of the principal reasons we misinterpret random events.*"
+:::
+
+::: {style="color: gray"}
+8.  "*Chance is a more fundamental conception than causality.*"
+:::
+
+::: {style="color: gray"}
+9.  "*many of life’s failures are people who did not realize how close they were to success when they gave up.*"
+:::
+
+::: {style="color: gray"}
+10.  "*keep marching forward because the best news is that since chance does play a role, one important factor in success is under our control: the number of at bats, the number of chances taken, the number of opportunities seized. For even a coin weighted toward failure will sometimes land on success.*"
+:::
+
+
