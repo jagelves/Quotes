@@ -1,7 +1,6 @@
 # The Drunkard's Walk by Leonard Mlodinow {#sec-DrunkBook}
 
-Leonard Mlodinow is a physicist, author, and screenwriter. He is best known for his popular science books, including "The Drunkard's Walk: How Randomness Rules Our Lives" and "Subliminal: How Your Unconscious Mind Rules Your Behavior." He has also co-authored several books with physicist Stephen Hawking, including "A Briefer History of Time" and "The Grand Design." Mlodinow has also worked as a screenwriter and producer for television shows such as "Star Trek: The Next Generation" and "MacGyver." *Source: chatgpt.*
-The following quotes are from @mlodinow2009drunk.
+Leonard Mlodinow is a physicist, author, and screenwriter. He is best known for his popular science books, including "The Drunkard's Walk: How Randomness Rules Our Lives" and "Subliminal: How Your Unconscious Mind Rules Your Behavior." He has also co-authored several books with physicist Stephen Hawking, including "A Briefer History of Time" and "The Grand Design." Mlodinow has also worked as a screenwriter and producer for television shows such as "Star Trek: The Next Generation" and "MacGyver." *Source: chatgpt.* The following quotes are from @mlodinow2009drunk.
 
 ## Concepts
 
@@ -14,11 +13,11 @@ The following quotes are from @mlodinow2009drunk.
 :::
 
 ::: {style="color: gray"}
-3.  "*Every reasonable person, Pascal concluded, should therefore follow the laws of God. Today this argument is known as Pascal’s wager.*"
+3.  "*Every reasonable person, Pascal concluded, should therefore follow the laws of God. Today this argument is known as Pascal's wager.*"
 :::
 
 ::: {style="color: gray"}
-4.  "*Benford’s law, numbers arising in this cumulative fashion are not random but rather are biased in favor of the lower digits.*"
+4.  "*Benford's law, numbers arising in this cumulative fashion are not random but rather are biased in favor of the lower digits.*"
 :::
 
 ::: {style="color: gray"}
@@ -26,15 +25,15 @@ The following quotes are from @mlodinow2009drunk.
 :::
 
 ::: {style="color: gray"}
-6.  "*The misconception—or the mistaken intuition—that a small sample accurately reflects underlying probabilities is so widespread that Kahneman and Tversky gave it a name: the law of small numbers.*"
+6.  "*The misconception---or the mistaken intuition---that a small sample accurately reflects underlying probabilities is so widespread that Kahneman and Tversky gave it a name: the law of small numbers.*"
 :::
 
 ::: {style="color: gray"}
-7.  "*The idea that the odds of an event with a fixed probability increase or decrease depending on recent occurrences of the event is called the gambler’s fallacy.*"
+7.  "*The idea that the odds of an event with a fixed probability increase or decrease depending on recent occurrences of the event is called the gambler's fallacy.*"
 :::
 
 ::: {style="color: gray"}
-8.  "*He dubbed the phenomenon—that in linked measurements, if one measured quantity is far from its mean, the other will be closer to its mean—regression toward the mean.*"
+8.  "*He dubbed the phenomenon---that in linked measurements, if one measured quantity is far from its mean, the other will be closer to its mean---regression toward the mean.*"
 :::
 
 ::: {style="color: gray"}
@@ -42,9 +41,8 @@ The following quotes are from @mlodinow2009drunk.
 :::
 
 ::: {style="color: gray"}
-10.  "*The phenomenon was dubbed the butterfly effect, based on the implication that atmospheric changes so small they could have been caused by a butterfly flapping its wings can have a large effect on subsequent global weather patterns.*"
+10. "*The phenomenon was dubbed the butterfly effect, based on the implication that atmospheric changes so small they could have been caused by a butterfly flapping its wings can have a large effect on subsequent global weather patterns.*"
 :::
-
 
 ## On Perception
 
@@ -69,7 +67,7 @@ The following quotes are from @mlodinow2009drunk.
 :::
 
 ::: {style="color: gray"}
-6.  "*Either way it is important in our own lives to take the long view and understand that streaks and other patterns that don’t appear random can indeed happen by pure chance. It is also important, when assessing others, to recognize that among a large group of people it would be very odd if one of them didn’t experience a long streak of successes or failures.*"
+6.  "*Either way it is important in our own lives to take the long view and understand that streaks and other patterns that don't appear random can indeed happen by pure chance. It is also important, when assessing others, to recognize that among a large group of people it would be very odd if one of them didn't experience a long streak of successes or failures.*"
 :::
 
 ::: {style="color: gray"}
@@ -81,11 +79,9 @@ The following quotes are from @mlodinow2009drunk.
 :::
 
 ::: {style="color: gray"}
-9.  "*many of life’s failures are people who did not realize how close they were to success when they gave up.*"
+9.  "*many of life's failures are people who did not realize how close they were to success when they gave up.*"
 :::
 
 ::: {style="color: gray"}
-10.  "*keep marching forward because the best news is that since chance does play a role, one important factor in success is under our control: the number of at bats, the number of chances taken, the number of opportunities seized. For even a coin weighted toward failure will sometimes land on success.*"
+10. "*keep marching forward because the best news is that since chance does play a role, one important factor in success is under our control: the number of at bats, the number of chances taken, the number of opportunities seized. For even a coin weighted toward failure will sometimes land on success.*"
 :::
-
-
