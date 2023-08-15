@@ -33,6 +33,7 @@ book:
     - Courage.qmd
     - Search Meaning.qmd
     - Siddhartha.qmd
+    - Creative.qmd
     - references.qmd
 
 bibliography: references.bib
