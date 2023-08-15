@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 title-block-banner: "#003152"
-# title-block-banner-color: "#f5f5f5"
+title-block-banner-color: "#f5f5f5"
 
 
 book:
