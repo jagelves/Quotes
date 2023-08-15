@@ -34,6 +34,7 @@ book:
     - Search Meaning.qmd
     - Siddhartha.qmd
     - Creative.qmd
+    - Money.qmd
     - references.qmd
 
 bibliography: references.bib
