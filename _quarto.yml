@@ -36,6 +36,7 @@ book:
     - Creative.qmd
     - Money.qmd
     - Serpent.qmd
+    - Sayings.qmd
     - references.qmd
 
 bibliography: references.bib
