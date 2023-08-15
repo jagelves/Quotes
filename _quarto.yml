@@ -35,6 +35,7 @@ book:
     - Siddhartha.qmd
     - Creative.qmd
     - Money.qmd
+    - Serpent.qmd
     - references.qmd
 
 bibliography: references.bib
