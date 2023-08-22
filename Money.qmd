@@ -7,15 +7,15 @@ Morgan Housel has contributed to publications like The Wall Street Journal and T
 The following quotes are from @housel2020money.
 
 ::: {style="color: gray"}
-1.  "*Studying history makes you feel like you understand something. But until you’ve lived through it and personally felt its consequences, you may not understand it enough to change your behavior.*"
+1.  "*Studying history makes you feel like you understand something. But until you've lived through it and personally felt its consequences, you may not understand it enough to change your behavior.*"
 :::
 
 ::: {style="color: gray"}
-2.  "*“You had a bad outcome so it must have been caused by a bad decision” is the story that makes the most sense to me. But when judging myself I can make up a wild narrative justifying my past decisions and attributing bad outcomes to risk.*"
+2.  "*"You had a bad outcome so it must have been caused by a bad decision" is the story that makes the most sense to me. But when judging myself I can make up a wild narrative justifying my past decisions and attributing bad outcomes to risk.*"
 :::
 
 ::: {style="color: gray"}
-3.  "*But the majority of Benjamin Graham’s investing success was due to owning an enormous chunk of GEICO stock which, by his own admission, broke nearly every diversification rule that Graham himself laid out in his famous texts.*"
+3.  "*But the majority of Benjamin Graham's investing success was due to owning an enormous chunk of GEICO stock which, by his own admission, broke nearly every diversification rule that Graham himself laid out in his famous texts.*"
 :::
 
 ::: {style="color: gray"}
@@ -23,19 +23,19 @@ The following quotes are from @housel2020money.
 :::
 
 ::: {style="color: gray"}
-5.  "*Nigerian scam artist once told The New York Times that he felt guilty for hurting others, but “poverty will not make you feel the pain.*"
+5.  "*Nigerian scam artist once told The New York Times that he felt guilty for hurting others, but "poverty will not make you feel the pain.*"
 :::
 
 ::: {style="color: gray"}
-6.  "*There is no reason to risk what you have and need for what you don’t have and don’t need.*"
+6.  "*There is no reason to risk what you have and need for what you don't have and don't need.*"
 :::
 
 ::: {style="color: gray"}
-7.  "*But the way to be rich is to spend money you have, and to not spend money you don’t have. It’s really that simple.”31*"
+7.  "*But the way to be rich is to spend money you have, and to not spend money you don't have. It's really that simple."31*"
 :::
 
 ::: {style="color: gray"}
-8.  "*But wealth is hidden. It’s income not spent. Wealth is an option not yet taken to buy something later. Its value lies in offering you options, flexibility, and growth to one day purchase more stuff than you could right now.*"
+8.  "*But wealth is hidden. It's income not spent. Wealth is an option not yet taken to buy something later. Its value lies in offering you options, flexibility, and growth to one day purchase more stuff than you could right now.*"
 :::
 
 ::: {style="color: gray"}
@@ -43,45 +43,45 @@ The following quotes are from @housel2020money.
 :::
 
 ::: {style="color: gray"}
-10.  "*It had been built to withstand the worst past historical earthquake, with the builders not imagining much worse—and not thinking that the worst past event had to be a surprise, as it had no precedent.*"
+10. "*It had been built to withstand the worst past historical earthquake, with the builders not imagining much worse---and not thinking that the worst past event had to be a surprise, as it had no precedent.*"
 :::
 
 ::: {style="color: gray"}
-11.  "*The correct lesson to learn from surprises is that the world is surprising. Not that we should use past surprises as a guide to future boundaries; that we should use past surprises as an admission that we have no idea what might happen next.*"
+11. "*The correct lesson to learn from surprises is that the world is surprising. Not that we should use past surprises as a guide to future boundaries; that we should use past surprises as an admission that we have no idea what might happen next.*"
 :::
 
 ::: {style="color: gray"}
-12.  "*Many investors and economists take comfort in knowing their forecasts are backed up by decades, even centuries, of data. But since economies evolve, recent history is often the best guide to the future, because it’s more likely to include important conditions that are relevant to the future.*"
+12. "*Many investors and economists take comfort in knowing their forecasts are backed up by decades, even centuries, of data. But since economies evolve, recent history is often the best guide to the future, because it's more likely to include important conditions that are relevant to the future.*"
 :::
 
 ::: {style="color: gray"}
-13.  "*The wisdom in having room for error is acknowledging that uncertainty, randomness, and chance—“unknowns”—are an ever-present part of life. The only way to deal with them is by increasing the gap between what you think will happen and what can happen while still leaving you capable of fighting another day.*"
+13. "*The wisdom in having room for error is acknowledging that uncertainty, randomness, and chance---"unknowns"---are an ever-present part of life. The only way to deal with them is by increasing the gap between what you think will happen and what can happen while still leaving you capable of fighting another day.*"
 :::
 
 ::: {style="color: gray"}
-14.  "*So if many things rely on one thing working, and that thing breaks, you are counting the days to catastrophe. That’s a single point of failure.*"
+14. "*So if many things rely on one thing working, and that thing breaks, you are counting the days to catastrophe. That's a single point of failure.*"
 :::
 
 ::: {style="color: gray"}
-15.  "*An underpinning of psychology is that people are poor forecasters of their future selves.*"
+15. "*An underpinning of psychology is that people are poor forecasters of their future selves.*"
 :::
 
 ::: {style="color: gray"}
-16.  "*Every job looks easy when you’re not the one doing it because the challenges faced by someone in the arena are often invisible to those in the crowd.*"
+16. "*Every job looks easy when you're not the one doing it because the challenges faced by someone in the arena are often invisible to those in the crowd.*"
 :::
 
 ::: {style="color: gray"}
-17.  "*But if you view volatility as a fee, things look different.*"
+17. "*But if you view volatility as a fee, things look different.*"
 :::
 
 ::: {style="color: gray"}
-18.  "*But while we can see how much money other people spend on cars, homes, clothes, and vacations, we don’t get to see their goals, worries, and aspirations. A young lawyer aiming to be a partner at a prestigious law firm might need to maintain an appearance that I, a writer who can work in sweatpants, have no need for. But when his purchases set my own expectations, I’m wandering down a path of potential disappointment because I’m spending the money without the career boost he’s getting. We might not even have different styles. We’re just playing a different game. It took me years to figure this out.*"
+18. "*But while we can see how much money other people spend on cars, homes, clothes, and vacations, we don't get to see their goals, worries, and aspirations. A young lawyer aiming to be a partner at a prestigious law firm might need to maintain an appearance that I, a writer who can work in sweatpants, have no need for. But when his purchases set my own expectations, I'm wandering down a path of potential disappointment because I'm spending the money without the career boost he's getting. We might not even have different styles. We're just playing a different game. It took me years to figure this out.*"
 :::
 
 ::: {style="color: gray"}
-19.  "*Another is that pessimists often extrapolate present trends without accounting for how markets adapt.*"
+19. "*Another is that pessimists often extrapolate present trends without accounting for how markets adapt.*"
 :::
 
 ::: {style="color: gray"}
-20.  "*A doctor may throw the kitchen sink at her patient’s cancer, but choose palliative care for herself.*"
+20. "*A doctor may throw the kitchen sink at her patient's cancer, but choose palliative care for herself.*"
 :::
