@@ -37,6 +37,9 @@ book:
     - Money.qmd
     - Serpent.qmd
     - Sayings.qmd
+    - Strength.qmd
+    - Zen.qmd
+    - Storytelling.qmd
     - references.qmd
 
 bibliography: references.bib
