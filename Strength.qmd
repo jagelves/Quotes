@@ -21,8 +21,7 @@ The following quotes are from @brooks2022strength.
 :::
 
 ::: {style="color: gray"}
-4.  "*The first is fluid intelligence, which Cattell defined as the ability to reason, think flexibly, and solve novel problems.
-Fluid intelligence isn’t the only kind—there is also crystallized intelligence. This is defined as the ability to use a stock of knowledge learned in the past.*"
+4.  "*The first is fluid intelligence, which Cattell defined as the ability to reason, think flexibly, and solve novel problems. Fluid intelligence isn’t the only kind—there is also crystallized intelligence. This is defined as the ability to use a stock of knowledge learned in the past.*"
 :::
 
 ::: {style="color: gray"}
@@ -30,8 +29,7 @@ Fluid intelligence isn’t the only kind—there is also crystallized intelligen
 :::
 
 ::: {style="color: gray"}
-6.  "*...work, which is a source of meaning and purpose, becomes workaholism, which hurts our relationships. Success, the fruit of excellence, becomes an addiction. All because of pride.
-In fact, perfectionism and the fear of failure go hand in hand: they lead you to believe that success isn’t about doing something good but about not doing something bad.*"
+6.  "*...work, which is a source of meaning and purpose, becomes workaholism, which hurts our relationships. Success, the fruit of excellence, becomes an addiction. All because of pride. In fact, perfectionism and the fear of failure go hand in hand: they lead you to believe that success isn’t about doing something good but about not doing something bad.*"
 :::
 
 ::: {style="color: gray"}
