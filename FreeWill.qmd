@@ -23,9 +23,9 @@ The following quotes are from @harris2012free.
 2.  "*Most people are ruled by many mutually incompatible goals and aspirations: You want to finish your work, but you are also inclined to stop working so that you can play with your kids. You aspire to quit smoking, but you also crave another cigarette. You are struggling to save money, but you are also tempted to buy a new computer. Where is the freedom when one of these opposing desires inexplicably triumphs over its rival?*"
 :::
 
-3.  ::: {style="color: gray"}
-    "*My mental life is simply given to me by the cosmos. Why didn't I decide to drink a glass of juice? The thought never occurred to me. Am I free to do that which does not occur to me to do? Of course not.*"
-    :::
+::: {style="color: gray"}
+3.  "*My mental life is simply given to me by the cosmos. Why didn't I decide to drink a glass of juice? The thought never occurred to me. Am I free to do that which does not occur to me to do? Of course not.*"
+:::
 
 ## On Blame
 
