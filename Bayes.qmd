@@ -13,34 +13,29 @@ The following quotes are from @chivers2024bayes.
 
 
 ::: {style="color: gray"}
-He imagines that two players are playing a ball game in which you win ten points for each goal, and the winner is the first person to get to sixty points.III One of the players has reached fifty points, and the other has reached twenty, before the game is interrupted. How should the winnings be split?
-:::
-
-::: {style="color: gray"}
-Note that there are three moving parts and adjusting any one of them means changing at least one of the others. So if you’ve drawn a sample that’s large enough for you to be 90 percent sure that it’s within 10 percent of the true answer, but you want to be 99 percent sure, you either have to adjust your spread—make it wider than 10 percent—or you have to take a larger sample. (As Aubrey Clayton points out, it’s like the project-management mantra “Fast, good, or cheap. Pick two.” In this case, it’s “Precise estimates, high certainty, or small samples. Pick two.”)
+2. "*Note that there are three moving parts and adjusting any one of them means changing at least one of the others. So if you’ve drawn a sample that’s large enough for you to be 90 percent sure that it’s within 10 percent of the true answer, but you want to be 99 percent sure, you either have to adjust your spread—make it wider than 10 percent—or you have to take a larger sample.*"
 ::: 
 
 
 ::: {style="color: gray"}
-Bernoulli thought that we could talk about certainty as a number: 1 for complete certainty, 0 for complete impossibility. 35 And that meant that you could have degrees of certainty, and improve that certainty by experiment.
+3. "*Bernoulli thought that we could talk about certainty as a number: 1 for complete certainty, 0 for complete impossibility. And that meant that you could have degrees of certainty, and improve that certainty by experiment.*"
 :::
 
 ::: {style="color: gray"}
-He showed that the accuracy of your estimate grew in proportion to the square root of the sample size.
+4. "*He showed that the accuracy of your estimate grew in proportion to the square root of the sample size.*"
 :::
 
 ::: {style="color: gray"}
-probability “is an expression of our lack of knowledge about the world.”
+5. "*probability is an expression of our lack of knowledge about the world.*"
 ::: 
 
 
 ::: {style="color: gray"}
-Hume, in his 1748 essay “Of Miracles,” argued that no amount of testimony should ever convince someone that a miracle, a violation of natural law, took place: he never actually said “extraordinary claims require extraordinary evidence,” but that’s the gist of it. “[ No] testimony is sufficient to establish a miracle,” wrote Hume, “unless the testimony be of such a kind, that its falsehood would be more miraculous, than the fact, which it endeavours to establish.” If someone were to say that he had seen the dead restored to life, Hume continues, “I immediately consider with myself, whether it be more probable, that this person should either deceive or be deceived, or that the fact, which he relates, should really have happened.” 
-
+Hume, in his 1748 essay “Of Miracles,” argued that no amount of testimony should ever convince someone that a miracle, a violation of natural law, took place: he never actually said “extraordinary claims require extraordinary evidence,” but that’s the gist of it. “[No] testimony is sufficient to establish a miracle,” wrote Hume, “unless the testimony be of such a kind, that its falsehood would be more miraculous, than the fact, which it endeavours to establish.” If someone were to say that he had seen the dead restored to life, Hume continues, “I immediately consider with myself, whether it be more probable, that this person should either deceive or be deceived, or that the fact, which he relates, should really have happened.” 
 :::
 
 ::: {style="color: gray"}
-Frequentist statistics do the opposite of what we’ve been talking about. Where Bayes’ theorem takes you from data to hypothesis—How likely is the hypothesis to be true, given the data I’ve seen?—frequentist statistics take you from hypothesis to data: How likely am I to see this data, assuming a given hypothesis is true?
+7. "*Where Bayes’ theorem takes you from data to hypothesis—How likely is the hypothesis to be true, given the data I’ve seen?—frequentist statistics take you from hypothesis to data: How likely am I to see this data, assuming a given hypothesis is true?*"
 :::
 
 ::: {style="color: gray"}
