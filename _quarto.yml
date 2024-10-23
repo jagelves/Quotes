@@ -2,7 +2,7 @@ project:
   type: book
   output-dir: docs
 
-title-block-banner: "#003152"
+title-block-banner: "#7393B3"
 title-block-banner-color: "#f5f5f5"
 
 
@@ -40,6 +40,7 @@ book:
     - Strength.qmd
     - Zen.qmd
     - Storytelling.qmd
+    - Bayes.qmd
     - references.qmd
 
 bibliography: references.bib
