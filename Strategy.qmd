@@ -1,0 +1,142 @@
+# The Art of Strategy: A Game Theorist's Guide to Success in Business and Life
+
+Avinash Dixit is a highly respected economist and professor, known for his influential contributions across various subfields of economics, including microeconomics, game theory, international trade, public economics, and industrial organization. Born in 1944 in Mumbai, India, Dixit earned degrees in mathematics and economics from St. Xavier’s College, the University of Cambridge, and MIT. He held the position of John J. F. Sherrerd '52 University Professor of Economics, Emeritus, at Princeton University.
+
+Dixit’s work spans theoretical and applied economics, with notable contributions like the Dixit-Stiglitz model of monopolistic competition, which has been pivotal in understanding product differentiation and competition. His book Investment Under Uncertainty (co-authored with Robert Pindyck) is also widely regarded as a foundational text in economics, using options theory to model investment decisions under uncertainty.
+
+He has held leadership positions in prestigious economic associations, such as the Econometric Society and the American Economic Association, and has authored several widely respected books on economics and strategy. *Source: chatgpt.*
+
+The following quotes are from @dixit2010strategy.
+
+## Quotes
+
+PART I
+Highlight(yellow) - 1. Ten Tales of Strategy > Page 4 · Location 214
+artofstrategy.info
+Highlight(yellow) - 1. Ten Tales of Strategy > Page 22 · Location 504
+Imagine what would happen if there were some known formula that determined who would be audited by the IRS. Before you submitted a tax return, you could apply the formula to see if you would be audited. If an audit was predicted, but you could see a way to “amend” your return until the formula no longer predicted an audit, you probably would do so. If an audit was unavoidable, you would choose to tell the truth. The result of the IRS being completely predictable is that it would audit exactly the wrong people. All those audited would have anticipated their fate and chosen to act honestly, while those spared an audit would have only their consciences to watch over them. When the IRS audit formula is somewhat fuzzy, everyone stands some risk of an audit; this gives an added incentive for honesty.
+Highlight(yellow) - 1. Ten Tales of Strategy > Page 25 · Location 556
+The result of winning an auction and discovering you’ve overpaid is called the winner’s curse.
+Highlight(yellow) - 1. Ten Tales of Strategy > Page 28 · Location 599
+you need to understand the other player’s perspective. You need to consider what they know, what motivates them, and even how they think about you.
+Highlight(yellow) - 2. Games Solvable by Backward Reasoning > Page 37 · Location 714
+To remind you of the difference, we will call a tree showing the decision sequence in a game of strategy a game tree, reserving decision tree for situations in which just one person is involved.
+Highlight(yellow) - 2. Games Solvable by Backward Reasoning > Page 39 · Location 745
+But to abandon theory altogether would be to abandon a valuable starting point for thought, which may be a beachhead for conquering the problem.
+Highlight(yellow) - 2. Games Solvable by Backward Reasoning > Page 43 · Location 784
+In single-person decisions, greater freedom of action can never hurt. But in games, it can hurt because its existence can influence other players’ actions.
+Highlight(yellow) - 2. Games Solvable by Backward Reasoning > Page 56 · Location 989
+includes in the players’ objectives their concerns for equity, altruism, and similar concerns (and even a “second-round” concern to reward or punish others whose behavior reflects or violates these precepts).
+Highlight(yellow) - 2. Games Solvable by Backward Reasoning > Page 63 · Location 1099
+The wisdom of taking risks early applies to most aspects of life, whether it be career choices, investments, or dating.
+Highlight(yellow) - 3. Prisoners’ Dilemmas and How to Resolve Them > Page 75 · Location 1260
+Tit for tat is as clear and simple as you can get; the opponent does not have to do much thinking or calculation about what you are up to. It is nice in that it never initiates cheating. It is provocable—that is, it never lets cheating go unpunished. And it is forgiving, because it does not hold a grudge for too long and is willing to restore cooperation.
+Highlight(yellow) - 3. Prisoners’ Dilemmas and How to Resolve Them > Page 90 · Location 1489
+People realize they can’t change what the other side has done once they’ve been told what the other side has done. But if it remains open or undisclosed, then they imagine that their actions might have some influence—or that the other side will somehow be employing the same reasoning chain and reach the same outcome they do. Since Cooperate, Cooperate is preferred to Defect, Defect, the person chooses Cooperate.
+Highlight(yellow) - 3. Prisoners’ Dilemmas and How to Resolve Them > Page 100 · Location 1656
+The game we have here is a cousin to the prisoners’ dilemma, a life and death case of the “stag hunt” game analyzed by the philosopher Jean-Jacques Rousseau.* In the stag hunt, if everyone works together to capture the stag, they succeed and all eat well. A problem arises if some hunters come across a hare along the way. If too many hunters are sidetracked chasing after hares, there won’t be enough hunters left to capture the stag. In that case, everyone will do better chasing after rabbits. The best strategy is to go after the stag if and only if you can be confident that most everyone is doing the same thing. You have no reason not to chase after the stag, except if you lack confidence in what others will do.
+Highlight(yellow) - 4. A Beautiful Equilibrium Epilogue to Part I > Page 109 · Location 1768
+But what, precisely, constitutes “prominence”? One strategy, say Stag, may be prominent in Fred’s mind, but that is not enough for him to make that choice. He must ask himself whether the same strategy is also prominent for Barney. And that in turn involves asking whether Barney will think it prominent to Fred.
+Highlight(yellow) - 4. A Beautiful Equilibrium Epilogue to Part I > Page 109 · Location 1774
+If an equilibrium is obvious ad infinitum in this way, that is, if the players’ expectations converge upon it, we call it a focal point.
+Highlight(yellow) - 4. A Beautiful Equilibrium Epilogue to Part I > Page 130 · Location 2082
+One such extension of the Nash equilibrium concept has become increasingly popular; this is the quantal response equilibrium,
+Highlight(yellow) - 4. A Beautiful Equilibrium Epilogue to Part I > Page 130 · Location 2090
+When studying or playing a game, begin with the Nash equilibrium, and then think of reasons why, and the manner in which, the outcome may differ from the Nash predictions.
+PART II
+Highlight(yellow) - 5. Choice and Chance > Page 148 · Location 2324
+Theory of Games and Economic Behavior,
+Highlight(yellow) - 5. Choice and Chance > Page 157 · Location 2454
+Suppose you are the kicker in the soccer example, and the goalie is using his best mix: Left 41.7 percent and Right 58.3 percent of the time. Then you will score a goal 79.6 percent of the time whether you kick to the Left, the Right, or any mixture of the two. Observing this, you might be tempted to spare yourself the calculation of your own best mix, just stick to any one action, and rely on the other player using his best mix. The problem is that unless you use your best mix, the other does not have the incentive to go on using his. If you stick to the Left, for example, the goalie will switch to covering the Left also. The reason why you should use your best mix is to keep the other player using his.
+Highlight(yellow) - 5. Choice and Chance > Page 162 · Location 2527
+But the point isn’t that the risky strategy will always work, but rather that it avoids the danger of set patterns and predictability.
+Highlight(yellow) - 6. Strategic Moves > Page 176 · Location 2720
+How can it be beneficial to have fewer choices? Because in this game, freedom to swerve is merely freedom to become the chicken; freedom to choose is freedom to lose.
+Highlight(yellow) - 6. Strategic Moves > Page 179 · Location 2763
+The night self can change the game into the following:
+Highlight(yellow) - 6. Strategic Moves > Page 181 · Location 2791
+commitment is an unconditional strategic move;
+Highlight(yellow) - 6. Strategic Moves > Page 181 · Location 2795
+Threats and promises, on the other hand, are more complex conditional moves; they require you to fix in advance a response rule, stating how you would respond to the other player’s move in the actual game.
+Highlight(yellow) - 6. Strategic Moves > Page 181 · Location 2797
+A threat is a response rule that punishes others who fail to act as you would like them to. A promise is an offer to reward other players who act as you would like them to.
+Highlight(yellow) - 6. Strategic Moves > Page 183 · Location 2827
+When you want to stop the others from doing something they would otherwise do, that is deterrence. Its mirror image, namely to compel the others to do something they would not otherwise do, can then be termed compellence.
+Highlight(yellow) - 6. Strategic Moves > Page 191 · Location 2942
+When a company wants to promise rewards to its workers for improved productivity, a bonus that increases gradually with an increase in output or profit may be better than offering nothing if the performance does not exceed a set target, and a very large sum if it does.
+Highlight(yellow) - 6. Strategic Moves > Page 193 · Location 2965
+Very often you don’t know the exact size of a threat that is needed to deter or compel your adversary. You want to keep the size as low as possible to minimize the cost to you in the event that things go wrong and you have to go through with the action. So you start small and gradually raise the size of the threat. This is the delicate strategy of brinkmanship.
+Highlight(yellow) - 6. Strategic Moves > Page 194 · Location 2994
+But you may not know in advance the smallest effective size of a threat. That is why it makes sense to start small, and increase it gradually to find out when it works. As the size of the threatened action grows, the cost of carrying it out grows too.
+Highlight(yellow) - 6. Strategic Moves > Page 195 · Location 2999
+This is the strategy that Schelling called brinkmanship.* The term is often interpreted as taking an adversary to the brink of disaster in order to get him to blink first.
+Highlight(yellow) - 7. Making Strategies Credible Epilogue to Part II: A Nobel History > Page 215 · Location 3307
+The strategy of burning bridges (or boats) was used by several others. William the Conqueror’s army, invading England in 1066, burned its own ships, thus making an unconditional commitment to fight rather than retreat. Hernán Cortés followed the same strategy in his conquest of Mexico, giving orders upon arrival that all but one of his ships be burned or disabled. Although his soldiers were vastly outnumbered, they had no choice but to fight and win. “Had [Cortés] failed, it might well seem an act of madness…. Yetit was the fruit of deliberate calculation. There was no alternative in his mind but to succeed or perish.” 16
+Highlight(yellow) - 7. Making Strategies Credible Epilogue to Part II: A Nobel History > Page 228 · Location 3516
+general, when there is a problem of commitment, one way around the issue is to rent rather than sell the product. That way no one has an incentive to take advantage of the used book stockpile, because there isn’t any.
+PART III
+Highlight(yellow) - 8. Interpreting and Manipulating Information > Page 237 · Location 3606
+Then the king said, “Bring me a sword.” So they brought a sword for the king. He then gave an order: “Cut the living child in two and give half to one and half to the other.” The woman whose son was alive was filled with compassion for her son and said to the king, “Please, my lord, give her the living baby! Don’t kill him!” But the other said, “Neither I nor you shall have him. Cut him in two!” Then the king gave his ruling: “Give the living baby to the first woman. Do not kill him; she is his mother.” When all Israel heard the verdict the king had given, they held the king in awe, because they saw that he had wisdom from God to administer justice.
+Highlight(yellow) - 8. Interpreting and Manipulating Information > Page 238 · Location 3623
+Actions (including tattoos) speak louder than words.
+Highlight(yellow) - 8. Interpreting and Manipulating Information > Page 239 · Location 3631
+They will choose actions that promote favorable leakage; such strategies are called signaling. They will act in ways that reduce or eliminate unfavorable leakage; this is signal jamming.
+Highlight(yellow) - 8. Interpreting and Manipulating Information > Page 239 · Location 3634
+you want to elicit information from someone else, you should set up a situation where that person would find it optimal to take one action if the information was of one kind, and another action if it was of another kind; action (or inaction) then reveals the information.* This strategy is called screening.
+Highlight(yellow) - 8. Interpreting and Manipulating Information > Page 241 · Location 3673
+Actions that are intended to convey a player’s private information to other players are called signals. For a signal to be a credible carrier of a specific item of information, it must be the case that the action is optimal for the player to take if, but only if, he has that specific information.
+Highlight(yellow) - 8. Interpreting and Manipulating Information > Page 247 · Location 3758
+Consider who will find the transfer of balance option attractive. Since the maxpayer isn’t borrowing money on the card, there is no reason to switch over to Capital One. The deadbeat is not planning to pay the money back, so here, too, there is little interest in switching. Capital One’s offer is most attractive to the customers who have large amounts outstanding and are planning to pay the loan back.
+Highlight(yellow) - 8. Interpreting and Manipulating Information > Page 252 · Location 3845
+People often think of bureaucratic delays and inconveniences as proof of the inefficiency of government, but they may sometimes be valuable strategies to cope with informational problems. Benefits
+Highlight(yellow) - 8. Interpreting and Manipulating Information > Page 258 · Location 3937
+This situation, where all types (or all people possessing different types of information) take the same action, and therefore the action is completely uninformative, is called a pooling equilibrium of the signaling game—the different types end up in the same pool of signals. By contrast, the kind of equilibrium where one type signals and the other does not, so that the action accurately identifies or separates the types, is a separating equilibrium.
+Highlight(yellow) - 8. Interpreting and Manipulating Information > Page 263 · Location 4012
+To overcome this problem, the trick that sellers commonly use is to create different versions of the same good and price the versions differently. Each customer is free to select any version and pay the price set by the seller for that version, so there is no overt discrimination. But the seller sets the attributes and prices of each version so that different types of customers will choose different versions. These actions implicitly reveal the customers’ private information, namely their willingness to pay. The sellers are screening the buyers.
+Highlight(yellow) - 8. Interpreting and Manipulating Information > Page 266 · Location 4072
+PITS has to keep the first-class fare sufficiently low to give the business travelers enough incentive to choose this service and not “defect” to making the choice that PITS intends for the tourists. Such a requirement, or constraint, on the screener’s strategy is called an incentive compatibility constraint.
+Highlight(yellow) - 8. Interpreting and Manipulating Information > Page 267 · Location 4081
+But at $ 140 the economy-class fare is already at the limit of the tourists’ willingness to pay. If PITS raised it to even $ 141, it would lose these customers altogether. This requirement, namely that the customer type in question remains willing to buy, is called that type’s participation constraint.
+Highlight(yellow) - 9. Cooperation and Coordination > Page 282 · Location 4293
+The important insight from game theory is to recognize early on the potential for future lock-in—once one option has enough of a head start, superior technological alternatives may never get the chance to develop. Thus there is a potentially great payoff in the early stages from spending more time figuring out not only what technology meets today’s constraints but also what options will be the best for the future.
+Highlight(yellow) - 9. Cooperation and Coordination > Page 296 · Location 4511
+donated blood is typically superior to blood that is purchased, because the types of individuals who sell their blood for money are likely to be in a much poorer state of health.
+Highlight(yellow) - 10. Auctions, Bidding, and Contests > Page 303 · Location 4583
+The most famous type of auction is known as the English or ascending auction. In this format, the auctioneer stands at the front of the room calling out ever-increasing bids:
+Highlight(yellow) - 10. Auctions, Bidding, and Contests > Page 303 · Location 4598
+Values come in two flavors, private and common. In a world of private values, your value for the item doesn’t depend at all on what others think it is worth. Thus your value of a personalized signed copy of The Art of Strategy doesn’t depend on what your neighbor might think it is worth. In a common value situation, the bidders understand that the item has the same value for all of them, although each might have a different view as to what that common value is.
+Highlight(yellow) - 10. Auctions, Bidding, and Contests > Page 304 · Location 4608
+a Japanese auction, all of the bidders start with their hands raised or buttons pressed. The bidding goes up via a clock. The clock might start at 30 and then proceed to 31, 32,… and upwards. So long as your hand is raised, you are in the bidding. You drop out by lowering your hand. The catch is that once you lower your hand, you can’t put it back up again. The auction ends when only one bidder remains. An
+Highlight(yellow) - 10. Auctions, Bidding, and Contests > Page 305 · Location 4622
+In a Vickrey auction, all the bids are placed in a sealed envelope. When the envelopes are opened to determine the winner, the highest bid wins. But there’s a twist. The winner doesn’t pay his or her bid. Instead, the winner only has to pay the second highest bid.
+Highlight(yellow) - 10. Auctions, Bidding, and Contests > Page 315 · Location 4775
+The rules of a sealed-bid auction are simple. Everyone puts his or her bid in a sealed envelope. The envelopes are opened and the high bidder wins and pays his or her bid.
+Highlight(yellow) - 10. Auctions, Bidding, and Contests > Page 316 · Location 4796
+when you are thinking about how much to bid, you should pretend that all of the other bidders are somewhere below your bid. Armed with this assumption, you then consider your best bid.
+Highlight(yellow) - 10. Auctions, Bidding, and Contests > Page 317 · Location 4806
+Dutch auction, prices start high and fall until the first bidder indicates his or her participation. If you raise your hand in a Dutch auction, the auction stops and you’ve won.
+Highlight(yellow) - 10. Auctions, Bidding, and Contests > Page 318 · Location 4828
+the revenue equivalence theorem. It turns out that when the valuations are private and the game is symmetric, the seller makes the same amount of money on average whether the auction type is English, Vickrey, Dutch, or sealed-bid.*
+Highlight(yellow) - 10. Auctions, Bidding, and Contests > Page 319 · Location 4831
+the optimal bidding strategy is to bid what you think the next highest person’s value is given the belief that you have the highest value.
+Highlight(yellow) - 10. Auctions, Bidding, and Contests > Page 334 · Location 5054
+If you don’t like the game you are playing, look for the larger game.
+Highlight(yellow) - 11. Bargaining > Page 335 · Location 5059
+NEWLY ELECTED trade union leader went to his first tough bargaining session in the company boardroom. Nervous and intimidated by the setting, he blurted out his demand: “We want ten dollars an hour or else.” “Or else what?” challenged the boss. The union leader replied, “Nine fifty.”
+Highlight(yellow) - 11. Bargaining > Page 340 · Location 5121
+In the lingo of bargaining, the fallback numbers of $ 300 for the union and $ 500 for management are called BATNAs, a term coined by Roger Fisher and William Ury. It stands for Best Alternative to a Negotiated Agreement. 2 (You can also think that it stands for Best Alternative to No Agreement.)
+Highlight(yellow) - 11. Bargaining > Page 342 · Location 5158
+When a strategic bargainer observes that a better outside opportunity translates into a better share in a bargain, he will look for strategic moves that improve his outside opportunities. Moreover, he will notice that what matters is his outside opportunity relative to that of his rival. He will do better in the bargaining even if he makes a commitment or a threat that lowers both parties’ outside opportunities, so long as that of the rival is damaged more severely.
+Highlight(yellow) - 13. Incentives > Page 396 · Location 5934
+The purpose of the wage is to get the worker to put in the requisite effort and work more efficiently, and so it is called an efficiency wage. The excess above the basic wage elsewhere, which is $ 11,200 in our example, is called the efficiency premium.
+Further Reading
+Highlight(yellow) - Page 441 · Location 6626
+Theory of Games and Economic Behavior
+Highlight(yellow) - Page 442 · Location 6639
+Barry Nalebuff and Adam Brandenburger’s Co-opetition
+Highlight(yellow) - Page 442 · Location 6657
+Martin Shubik’s Game Theory in the Social Sciences
+Highlight(yellow) - Page 442 · Location 6659
+Paul Klemperer’s Auctions: Theory and Practice,
+Highlight(yellow) - Page 442 · Location 6672
+On the web, www.gametheory.net has
