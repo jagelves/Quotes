@@ -1,6 +1,7 @@
 project:
   type: book
   output-dir: docs
+  freeze: auto
 
 title-block-banner: "#7393B3"
 title-block-banner-color: "#f5f5f5"
