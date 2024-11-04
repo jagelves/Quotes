@@ -6,44 +6,40 @@ The following quotes are from @chivers2024bayes.
 
 ## Quotes
 
-
 ::: {style="color: gray"}
-1. "*The Italian polymath Gerolamo Cardano had attempted to quantify the maths of dice gambling in the sixteenth century. What, for instance, would the odds be of rolling a six on four rolls of a die, or a double six on twenty-four rolls of a pair of dice?*"
-:::
-
-
-::: {style="color: gray"}
-2. "*Note that there are three moving parts and adjusting any one of them means changing at least one of the others. So if you’ve drawn a sample that’s large enough for you to be 90 percent sure that it’s within 10 percent of the true answer, but you want to be 99 percent sure, you either have to adjust your spread—make it wider than 10 percent—or you have to take a larger sample.*"
-::: 
-
-
-::: {style="color: gray"}
-3. "*Bernoulli thought that we could talk about certainty as a number: 1 for complete certainty, 0 for complete impossibility. And that meant that you could have degrees of certainty, and improve that certainty by experiment.*"
+1.  "*The Italian polymath Gerolamo Cardano had attempted to quantify the maths of dice gambling in the sixteenth century. What, for instance, would the odds be of rolling a six on four rolls of a die, or a double six on twenty-four rolls of a pair of dice?*"
 :::
 
 ::: {style="color: gray"}
-4. "*He showed that the accuracy of your estimate grew in proportion to the square root of the sample size.*"
+2.  "*Note that there are three moving parts and adjusting any one of them means changing at least one of the others. So if you’ve drawn a sample that’s large enough for you to be 90 percent sure that it’s within 10 percent of the true answer, but you want to be 99 percent sure, you either have to adjust your spread—make it wider than 10 percent—or you have to take a larger sample.*"
 :::
 
 ::: {style="color: gray"}
-5. "*probability is an expression of our lack of knowledge about the world.*"
-::: 
-
-
-::: {style="color: gray"}
-Hume, in his 1748 essay “Of Miracles,” argued that no amount of testimony should ever convince someone that a miracle, a violation of natural law, took place: he never actually said “extraordinary claims require extraordinary evidence,” but that’s the gist of it. “[No] testimony is sufficient to establish a miracle,” wrote Hume, “unless the testimony be of such a kind, that its falsehood would be more miraculous, than the fact, which it endeavours to establish.” If someone were to say that he had seen the dead restored to life, Hume continues, “I immediately consider with myself, whether it be more probable, that this person should either deceive or be deceived, or that the fact, which he relates, should really have happened.” 
+3.  "*Bernoulli thought that we could talk about certainty as a number: 1 for complete certainty, 0 for complete impossibility. And that meant that you could have degrees of certainty, and improve that certainty by experiment.*"
 :::
 
 ::: {style="color: gray"}
-7. "*Where Bayes’ theorem takes you from data to hypothesis—How likely is the hypothesis to be true, given the data I’ve seen?—frequentist statistics take you from hypothesis to data: How likely am I to see this data, assuming a given hypothesis is true?*"
+4.  "*He showed that the accuracy of your estimate grew in proportion to the square root of the sample size.*"
 :::
 
 ::: {style="color: gray"}
-8. "*Specifically, it was about the maximum likelihood method. “Likelihood,” in Fisher’s new jargon, was essentially a way of saying how likely one particular hypothesis was, given some data, compared to another. For example, imagine you flip eight heads on ten coins. That’s pretty unlikely on a fair coin: it would only happen about one time in twenty. But if you had a dodgy coin somehow, one that came up heads 80 percent of the time, then you’d expect to see exactly eight heads about one time in three. You’re about seven times as likely to see this data under the hypothesis “this coin is biased and comes up heads eight times out of ten” than under the hypothesis “this coin is fair.” So the likelihood ratio between these two hypotheses is about seven.*"
+5.  "*probability is an expression of our lack of knowledge about the world.*"
 :::
 
 ::: {style="color: gray"}
-9. "*Bayesianism treats probability as subjective: a statement about our ignorance of the world. Frequentists treat it as objective: a statement about how often some outcome will happen, if you do it a huge number of times.*"
+6. "*Hume, in his 1748 essay “Of Miracles,” argued that no amount of testimony should ever convince someone that a miracle, a violation of natural law, took place: he never actually said “extraordinary claims require extraordinary evidence,” but that’s the gist of it. “\[No\] testimony is sufficient to establish a miracle,” wrote Hume, “unless the testimony be of such a kind, that its falsehood would be more miraculous, than the fact, which it endeavours to establish.” If someone were to say that he had seen the dead restored to life, Hume continues, “I immediately consider with myself, whether it be more probable, that this person should either deceive or be deceived, or that the fact, which he relates, should really have happened.”*"
+:::
+
+::: {style="color: gray"}
+7.  "*Where Bayes’ theorem takes you from data to hypothesis—How likely is the hypothesis to be true, given the data I’ve seen?—frequentist statistics take you from hypothesis to data: How likely am I to see this data, assuming a given hypothesis is true?*"
+:::
+
+::: {style="color: gray"}
+8.  "*Specifically, it was about the maximum likelihood method. “Likelihood,” in Fisher’s new jargon, was essentially a way of saying how likely one particular hypothesis was, given some data, compared to another. For example, imagine you flip eight heads on ten coins. That’s pretty unlikely on a fair coin: it would only happen about one time in twenty. But if you had a dodgy coin somehow, one that came up heads 80 percent of the time, then you’d expect to see exactly eight heads about one time in three. You’re about seven times as likely to see this data under the hypothesis “this coin is biased and comes up heads eight times out of ten” than under the hypothesis “this coin is fair.” So the likelihood ratio between these two hypotheses is about seven.*"
+:::
+
+::: {style="color: gray"}
+9.  "*Bayesianism treats probability as subjective: a statement about our ignorance of the world. Frequentists treat it as objective: a statement about how often some outcome will happen, if you do it a huge number of times.*"
 :::
 
 ::: {style="color: gray"}
@@ -59,16 +55,16 @@ Hume, in his 1748 essay “Of Miracles,” argued that no amount of testimony sh
 :::
 
 ::: {style="color: gray"}
-13. "*The easiest way to get a p < 0.05 result—that is, something that you’d only see by coincidence one time in twenty—is to do twenty experiments, and then publish the one that comes up. That’s exactly what the “False Positive Psychology” people did: they measured lots and lots of things, when they were looking at their undergraduates. Their parents’ birthdays, how old they felt, their political orientation, whether they referred to the past as “the good old days,” a whole bunch of things. They also gave them another song to listen to: “Hot Potato” by the Wiggles.*"
+13. "*The easiest way to get a p \< 0.05 result—that is, something that you’d only see by coincidence one time in twenty—is to do twenty experiments, and then publish the one that comes up. That’s exactly what the “False Positive Psychology” people did: they measured lots and lots of things, when they were looking at their undergraduates. Their parents’ birthdays, how old they felt, their political orientation, whether they referred to the past as “the good old days,” a whole bunch of things. They also gave them another song to listen to: “Hot Potato” by the Wiggles.*"
 :::
 
 ::: {style="color: gray"}
-14. "*This is a problem for science in its own right. Imagine one hundred labs carry out studies into whether or not psychic powers are real, and ninety-five of them find nothing, but five of them find statistically significant results (p < 0.05! You’d only see results like that five times out of every one hundred if it wasn’t real!). But because journals want to publish interesting, novel things, they might very well publish all five of the “psychic powers are real” papers and only one of the “psychic powers aren’t real” papers, meaning that if someone went to the scientific literature, they’d find that 85 percent of studies looking into psychic powers find them. If you speak to many scientists, you’ll hear a lot of stories of them getting rejections because their results weren’t “novel” enough, which, of course, means that the scientific literature systematically fills up with “novel,” exciting studies that do find things, while the boring, not novel, but often more actually true findings are rejected.*"
+14. "*This is a problem for science in its own right. Imagine one hundred labs carry out studies into whether or not psychic powers are real, and ninety-five of them find nothing, but five of them find statistically significant results (p \< 0.05! You’d only see results like that five times out of every one hundred if it wasn’t real!). But because journals want to publish interesting, novel things, they might very well publish all five of the “psychic powers are real” papers and only one of the “psychic powers aren’t real” papers, meaning that if someone went to the scientific literature, they’d find that 85 percent of studies looking into psychic powers find them. If you speak to many scientists, you’ll hear a lot of stories of them getting rejections because their results weren’t “novel” enough, which, of course, means that the scientific literature systematically fills up with “novel,” exciting studies that do find things, while the boring, not novel, but often more actually true findings are rejected.*"
 :::
 
 ::: {style="color: gray"}
 15. "*But you could go deeper and say that the underlying cause of the replication crisis is even more basic: it’s that science, like Jakob Bernoulli three hundred years ago, is doing sampling probabilities, not inferential probabilities.*"
-::: 
+:::
 
 ::: {style="color: gray"}
 16. "*A p-value is not, as we’ve discussed, a measure of how likely it is that your hypothesis is true, given your data. It’s a measure of how likely it is that you would see that data, given a certain hypothesis. But—as Bayes noted, and as Laplace later fleshed out—that’s not enough. If you want to measure how likely it is that your hypothesis is true, you simply cannot avoid priors. You need Bayes’ theorem. The question, of course, is whether that is what you want.*"
@@ -80,7 +76,7 @@ Hume, in his 1748 essay “Of Miracles,” argued that no amount of testimony sh
 
 ::: {style="color: gray"}
 18. "*you should take prior probabilities into account. If you have some hypothesis, like ‘the moon is made of cheese,’ you’d have very low priors, so new data doesn’t move the needle much. It might give you a hint of being convinced, but it doesn’t drown out your prior skepticism.*"
-::: 
+:::
 
 ::: {style="color: gray"}
 19. "*All swans are white. Imagine that you see a white swan. Does that prove that all swans are white? No, of course not. We could see another white swan; it still won’t prove it. There is no number of white swans that you could see before you could say with certainty that all swans are white. That’s simple Aristotelian logic. You can’t infer a universal law from individual examples: the syllogism “This is a swan, this swan is white, ergo all swans are white” is not a valid one.*"
@@ -100,14 +96,14 @@ Hume, in his 1748 essay “Of Miracles,” argued that no amount of testimony sh
 
 ::: {style="color: gray"}
 23. "*Some academics I know advocate something called Registered Reports, in which journals agree to publish papers on the strength of their methods, before the data is collected, so then, whether the researchers find exciting, headline-worthy results or boring, null results, those results will go on to become part of the scientific record. Several relatively major journals have signed up for Registered Reports, and I think they’re a good idea—they remove the incentive to slice the data until you get a positive result, and they remove the problem of publication bias.*"
-::: 
+:::
 
 ::: {style="color: gray"}
 24. "*So let’s say that when it rains, you see wet pavements 80 percent of the time. When it doesn’t rain, you still sometimes see wet pavements—say, your sprinklers come on 20 percent of the time. You’re four times more likely to see wet pavements under the hypothesis it has rained than under the hypothesis it has not rained. That’s your likelihood ratio, and that tells you how much to update your beliefs—how much more plausible the “rain” hypothesis is, given the “wet pavements” evidence.*"
 :::
 
 ::: {style="color: gray"}
-25. "*he has given his name to an important rule of Bayesian decision theory, Cromwell’s rule. Named by Dennis Lindley, the rule says that you should never assign anything, other than a logically necessary truth such as “2 + 2 = 4,” a probability of one or zero. That is: you should never be certain. *"
+25. "*he has given his name to an important rule of Bayesian decision theory, Cromwell’s rule. Named by Dennis Lindley, the rule says that you should never assign anything, other than a logically necessary truth such as “2 + 2 = 4,” a probability of one or zero. That is: you should never be certain.* "
 :::
 
 ::: {style="color: gray"}
@@ -117,7 +113,6 @@ Hume, in his 1748 essay “Of Miracles,” argued that no amount of testimony sh
 ::: {style="color: gray"}
 27. "*If you see a puppy-torture video, as you expected, then that would shift your beliefs somewhat—up from p = 0.9 to p ≈ 0.99. But, because it’s expected, it doesn’t shift your views all that much. But if you don’t see the video—if you are surprised—then it must move your beliefs a long way. In this case, your strong expectation being confounded would lead to your belief in the politician being a dog-torturer crashing to just p ≈ 0.33, one in three.*"
 :::
-
 
 ::: {style="color: gray"}
 28. "*If, for instance, you strongly expected to see the video, and then didn’t, and shrugged your shoulders and said, “Well, she’s probably bad anyway,” then you’re going to make yourself more wrong than you need to be.*"
@@ -135,16 +130,13 @@ Hume, in his 1748 essay “Of Miracles,” argued that no amount of testimony sh
 31. "*That’s a hyperprior—a higher-level prediction about the shape of the world, one that constrains and informs lower-level ones. Just as with the normal prior, you assign probabilities to how likely it is you’re in one world or another.*"
 :::
 
-
 ::: {style="color: gray"}
 32. "*So your urge to be right can drive you in two different directions: to force your views on other people, or to throw away ideas that are causing you to be wrong.*"
 :::
 
-
 ::: {style="color: gray"}
 33. "*You have a large heap of sand. You remove one grain of sand. It’s clearly still a heap. You remove another grain of sand. It’s clearly still a heap. You keep removing grains, one after the other, until there is just one grain left. Now it’s clearly not a heap. At what point did it stop? Which was the grain of sand that turned it from “heap” to “not heap”?*"
 :::
-
 
 ::: {style="color: gray"}
 34. "*a “Kalman filter”—an algorithm that takes various measurements, uses them to estimate some unknown quantity that you want to know, and then uses that estimate to make predictions.*"
@@ -152,4 +144,4 @@ Hume, in his 1748 essay “Of Miracles,” argued that no amount of testimony sh
 
 ::: {style="color: gray"}
 35. "*wants to minimize the surprise it receives from those predictions being wrong. But the difference is that if new information comes in that suggests your brain is wrong about getting wet—you see that it’s raining, for instance—it has two ways of dealing with it. It can change the world so that its predictions are true, by grabbing an umbrella, or it can change its predictions so that they meet the world, by accepting that you will get wet. It can update its priors.*"
-::: 
+:::
